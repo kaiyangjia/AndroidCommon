@@ -1,4 +1,4 @@
-package com.jiakaiyang;
+package com.jiakaiyang.androidgeneric.smaple;
 
 import org.junit.Test;
 

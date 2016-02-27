@@ -1,4 +1,4 @@
-package com.jiakaiyang;
+package com.jiakaiyang.androidgeneric.smaple;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
