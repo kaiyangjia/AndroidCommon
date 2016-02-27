@@ -1,4 +1,4 @@
-package com.jiakaiyang.androidgeneric;
+package com.jiakaiyang.androidgeneric.library;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

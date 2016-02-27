@@ -1,4 +1,4 @@
-package com.jiakaiyang.androidgeneric;
+package com.jiakaiyang.androidgeneric.library;
 
 import org.junit.Test;
 
