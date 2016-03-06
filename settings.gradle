@@ -1,1 +1,1 @@
-include ':smaple', ':smaple', ':generic-android'
+include ':app'
