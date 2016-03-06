@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DatePickerView">
+        <attr name="view_title" format="string"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="BorderLinearLayout">
+        <attr name="border_left_size" format="dimension" />
+        <attr name="border_top_size" format="dimension" />
+        <attr name="border_right_size" format="dimension" />
+        <attr name="border_bottom_size" format="dimension" />
+        <attr name="border_enable" default="true" format="boolean" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+</resources>
