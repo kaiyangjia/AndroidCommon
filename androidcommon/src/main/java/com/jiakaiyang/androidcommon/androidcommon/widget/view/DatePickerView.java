@@ -1,4 +1,4 @@
-package com.jiakaiyang.androidcommon.androidcommon.widget;
+package com.jiakaiyang.androidcommon.androidcommon.widget.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,8 +8,9 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.jiakaiyang.androidgeneric.library.R;
-import com.jiakaiyang.androidgeneric.library.utils.StringUtils;
+import com.jiakaiyang.androidcommon.androidcommon.R;
+import com.jiakaiyang.androidcommon.androidcommon.utils.StringUtils;
+
 
 /**
  * Created by jiakaiyang on 2015/12/23.

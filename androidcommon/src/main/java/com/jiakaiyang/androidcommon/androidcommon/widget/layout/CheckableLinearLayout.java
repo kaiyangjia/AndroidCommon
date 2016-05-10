@@ -1,4 +1,4 @@
-package com.jiakaiyang.androidcommon.androidcommon.widget;
+package com.jiakaiyang.androidcommon.androidcommon.widget.layout;
 
 /**
  * Created by kaiyangjia on 2016/2/27.
